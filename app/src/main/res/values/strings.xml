@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Coding Assignment</string>
+    <string name="search_text">Search</string>
+    <string name="search_cities">Search cities</string>
+    <!-- validation messages-->
+    <string name="username_required">UserName is required</string>
+    <string name="password_required">Password is required</string>
+    <string name="gender_required">Gender is required</string>
+    <string name="dob_required">Date of birth is required</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+</resources>

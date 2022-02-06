@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286389920597",
+    "project_id": "codingassignment-bb105",
+    "storage_bucket": "codingassignment-bb105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286389920597:android:e5702902474e60c68f45dc",
+        "android_client_info": {
+          "package_name": "com.test.codingassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286389920597-h0tplrjtvokgk972p08p9pmiipq8h7g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdMOHcnfCwYf0hfJ4F56cUgwdjH7nNbV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286389920597-h0tplrjtvokgk972p08p9pmiipq8h7g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
